@@ -62,9 +62,3 @@ app.post("/success.html", (req,res)=>{
 app.listen(PORT,()=>{
 	console.log("Server Started");
 })
-
-
-//API Key
-//a71a5be9eed3c056e40bfc9d292b6b32-us6 
-//list id
-//34e6279e95
